@@ -1,0 +1,501 @@
+jogo_id,titulo,data_lancamento,preco_base,desenvolvedora_id,publicadora_id
+1,A arte de mudar em estado puro,2020-09-02,38.49,30,82
+2,A vantagem de concretizar seus projetos com confiança,2022-04-18,11.58,21,49
+3,A segurança de atingir seus objetivos com confiança,2021-06-30,39.78,85,145
+4,A arte de realizar seus sonhos com força total,2021-04-29,55.62,56,140
+5,O prazer de avançar sem preocupação,2018-05-25,38.35,31,10
+6,A vantagem de evoluir antes de tudo,2020-07-12,31.34,46,138
+7,A possibilidade de concretizar seus projetos antes de tudo,2017-07-12,46.96,88,34
+8,O direito de evoluir de maneira eficaz,2024-08-28,25.69,100,35
+9,A liberdade de evoluir sem preocupação,2023-12-01,68.2,88,27
+10,O conforto de mudar com força total,2020-07-16,6.49,9,88
+11,O direito de evoluir de maneira eficaz,2020-01-30,39.0,40,96
+12,A vantagem de realizar seus sonhos com toda a tranquilidade,2018-10-22,10.16,27,108
+13,A possibilidade de mudar com força total,2018-07-10,10.76,86,60
+14,O prazer de conseguir de maneira eficaz,2021-05-14,28.92,66,52
+15,O conforto de avançar com força total,2018-04-04,65.96,94,36
+16,A vantagem de concretizar seus projetos sem preocupação,2022-02-14,7.09,10,133
+17,O prazer de evoluir naturalmente,2021-05-23,44.51,54,59
+18,O poder de conseguir sem preocupação,2022-01-31,40.56,93,51
+19,A liberdade de avançar antes de tudo,2019-06-21,57.3,87,117
+20,A certeza de evoluir com força total,2025-05-20,28.76,37,132
+21,O poder de ganhar em estado puro,2019-07-24,31.51,43,122
+22,A liberdade de conseguir simplesmente,2019-06-19,24.38,91,32
+23,A liberdade de concretizar seus projetos mais rapidamente,2021-11-09,44.96,49,46
+24,A arte de atingir seus objetivos com força total,2018-06-27,45.37,25,52
+25,A possibilidade de mudar direto da fonte,2018-05-28,66.23,95,143
+26,A liberdade de ganhar em estado puro,2023-11-14,9.83,84,130
+27,O prazer de evoluir mais facilmente,2019-03-04,11.9,25,37
+28,A certeza de mudar direto da fonte,2021-09-17,40.59,35,86
+29,O prazer de mudar em estado puro,2018-03-04,17.19,65,29
+30,A liberdade de evoluir naturalmente,2022-08-11,55.08,72,96
+31,A liberdade de realizar seus sonhos direto da fonte,2019-05-27,31.29,70,98
+32,A certeza de avançar mais rapidamente,2022-08-21,16.43,87,106
+33,O direito de inovar naturalmente,2018-12-09,29.4,55,18
+34,A arte de atingir seus objetivos mais facilmente,2021-04-02,39.08,61,17
+35,O prazer de ganhar mais facilmente,2025-02-25,30.27,100,86
+36,A certeza de ganhar com confiança,2023-12-12,25.02,82,103
+37,O direito de atingir seus objetivos direto da fonte,2019-10-09,12.26,85,147
+38,O poder de inovar com confiança,2024-03-22,37.62,97,57
+39,O conforto de atingir seus objetivos naturalmente,2024-03-11,47.3,49,106
+40,O conforto de atingir seus objetivos antes de tudo,2024-03-16,62.68,86,13
+41,O prazer de atingir seus objetivos com força total,2021-04-21,64.96,49,24
+42,O prazer de inovar com força total,2021-08-11,66.62,96,123
+43,A segurança de conseguir mais facilmente,2023-05-10,30.17,75,133
+44,A vantagem de concretizar seus projetos com toda a tranquilidade,2021-12-12,40.34,87,125
+45,A arte de inovar de maneira eficaz,2021-07-01,52.79,100,105
+46,O prazer de realizar seus sonhos com confiança,2023-06-19,50.9,78,110
+47,A liberdade de inovar sem preocupação,2022-11-19,59.63,28,59
+48,A segurança de evoluir simplesmente,2022-12-23,68.87,5,111
+49,A certeza de conseguir simplesmente,2020-03-26,64.4,73,98
+50,O poder de ganhar sem preocupação,2018-07-14,56.0,9,50
+51,A arte de mudar mais rapidamente,2023-09-21,44.42,25,147
+52,O poder de inovar antes de tudo,2022-09-18,52.66,53,51
+53,A liberdade de mudar mais facilmente,2021-02-01,58.67,45,10
+54,O conforto de evoluir antes de tudo,2019-04-15,8.46,4,136
+55,A simplicidade de ganhar com confiança,2018-03-15,61.11,38,149
+56,A certeza de inovar mais facilmente,2019-09-02,62.08,4,57
+57,O prazer de concretizar seus projetos em estado puro,2025-02-16,64.67,80,150
+58,O poder de conseguir com toda a tranquilidade,2024-03-29,45.82,66,90
+59,A liberdade de atingir seus objetivos direto da fonte,2021-04-01,54.22,64,102
+60,A possibilidade de concretizar seus projetos de maneira eficaz,2018-01-14,42.01,12,23
+61,O prazer de inovar com força total,2020-02-17,9.16,6,57
+62,O direito de evoluir mais rapidamente,2017-06-28,12.87,77,66
+63,A certeza de inovar com força total,2024-02-02,65.98,66,39
+64,O poder de ganhar com toda a tranquilidade,2024-08-16,53.91,80,5
+65,A certeza de concretizar seus projetos de maneira eficaz,2020-08-02,35.09,52,23
+66,A possibilidade de conseguir mais facilmente,2019-10-23,54.74,6,92
+67,O prazer de conseguir direto da fonte,2025-04-18,25.09,46,119
+68,A segurança de conseguir de maneira eficaz,2019-12-28,49.9,24,52
+69,A certeza de inovar direto da fonte,2020-08-31,20.89,48,7
+70,O conforto de avançar naturalmente,2018-01-22,36.7,93,133
+71,O poder de ganhar com toda a tranquilidade,2018-09-02,34.47,15,125
+72,A segurança de conseguir simplesmente,2019-10-03,44.02,45,91
+73,A simplicidade de evoluir com força total,2021-04-12,38.79,30,74
+74,O conforto de evoluir com confiança,2023-10-14,55.3,53,97
+75,A vantagem de mudar de maneira eficaz,2020-07-11,19.85,87,128
+76,A vantagem de mudar com força total,2021-08-09,59.31,6,105
+77,A segurança de inovar simplesmente,2018-07-28,42.27,67,23
+78,O direito de avançar de maneira eficaz,2018-01-19,58.52,57,86
+79,A vantagem de mudar antes de tudo,2022-11-11,67.7,69,84
+80,O direito de concretizar seus projetos com força total,2020-06-19,5.62,95,117
+81,O conforto de conseguir simplesmente,2020-07-30,6.89,56,91
+82,A possibilidade de inovar de maneira eficaz,2025-04-12,66.09,56,108
+83,O poder de atingir seus objetivos com força total,2018-06-10,9.14,49,53
+84,A possibilidade de atingir seus objetivos com força total,2020-02-12,8.06,31,79
+85,A simplicidade de mudar com toda a tranquilidade,2024-01-03,66.42,73,133
+86,O poder de atingir seus objetivos mais facilmente,2019-05-08,40.31,37,114
+87,O prazer de ganhar naturalmente,2023-03-04,29.27,83,55
+88,A vantagem de ganhar direto da fonte,2021-03-02,61.3,63,23
+89,A certeza de atingir seus objetivos sem preocupação,2019-11-15,38.73,95,72
+90,O prazer de concretizar seus projetos direto da fonte,2025-05-06,27.59,89,56
+91,A arte de ganhar mais facilmente,2017-12-02,49.77,72,45
+92,A simplicidade de realizar seus sonhos com força total,2022-11-26,47.59,5,150
+93,O conforto de evoluir em estado puro,2019-03-22,53.03,81,100
+94,A possibilidade de realizar seus sonhos de maneira eficaz,2018-06-18,17.99,59,119
+95,A liberdade de atingir seus objetivos em estado puro,2021-02-11,22.1,18,68
+96,O direito de inovar com toda a tranquilidade,2025-03-08,8.36,26,38
+97,A arte de ganhar mais rapidamente,2025-01-18,34.23,59,2
+98,A certeza de concretizar seus projetos direto da fonte,2024-05-09,21.08,88,24
+99,A arte de concretizar seus projetos mais rapidamente,2020-05-08,49.26,39,135
+100,O prazer de concretizar seus projetos mais facilmente,2024-05-21,46.04,71,12
+101,A simplicidade de avançar com força total,2021-05-19,26.43,32,130
+102,A possibilidade de conseguir de maneira eficaz,2019-12-17,67.08,27,76
+103,O prazer de atingir seus objetivos mais facilmente,2024-03-17,56.46,35,93
+104,O conforto de ganhar mais rapidamente,2022-12-20,53.42,39,69
+105,A certeza de concretizar seus projetos simplesmente,2023-12-10,60.71,85,137
+106,A liberdade de conseguir sem preocupação,2020-09-08,37.89,3,108
+107,A liberdade de mudar direto da fonte,2023-01-04,25.26,16,14
+108,A segurança de evoluir sem preocupação,2022-09-22,37.7,96,58
+109,O prazer de concretizar seus projetos com força total,2023-09-05,18.11,26,14
+110,O conforto de conseguir com força total,2024-01-12,57.88,22,128
+111,A segurança de avançar de maneira eficaz,2024-10-19,12.68,61,53
+112,O conforto de ganhar com toda a tranquilidade,2024-07-18,23.83,96,11
+113,A certeza de atingir seus objetivos com força total,2021-04-20,20.16,77,145
+114,A arte de mudar mais rapidamente,2024-07-11,25.12,57,52
+115,A segurança de ganhar mais facilmente,2019-10-30,10.98,15,16
+116,A segurança de conseguir em estado puro,2020-08-07,28.4,30,137
+117,A segurança de mudar antes de tudo,2024-11-04,55.49,7,18
+118,O conforto de conseguir simplesmente,2022-05-06,44.69,52,140
+119,A liberdade de evoluir com força total,2018-08-17,52.44,15,113
+120,A simplicidade de evoluir com força total,2021-10-25,14.87,87,133
+121,A possibilidade de inovar com confiança,2022-08-07,69.58,91,30
+122,O conforto de concretizar seus projetos mais facilmente,2019-08-31,65.24,12,45
+123,O direito de concretizar seus projetos com força total,2023-06-09,5.36,11,20
+124,O poder de inovar mais rapidamente,2023-08-05,46.61,85,134
+125,A arte de realizar seus sonhos sem preocupação,2023-06-29,59.18,88,137
+126,O direito de mudar de maneira eficaz,2022-12-18,8.14,41,60
+127,O conforto de evoluir em estado puro,2018-08-27,49.57,5,6
+128,O conforto de concretizar seus projetos naturalmente,2021-06-24,49.65,59,77
+129,A liberdade de atingir seus objetivos mais rapidamente,2021-07-26,11.59,8,99
+130,A segurança de evoluir simplesmente,2019-01-30,40.63,62,2
+131,O poder de inovar com toda a tranquilidade,2021-01-08,35.45,64,3
+132,O direito de inovar em estado puro,2022-09-09,25.25,92,24
+133,A arte de realizar seus sonhos antes de tudo,2020-01-05,21.43,87,22
+134,O conforto de realizar seus sonhos simplesmente,2024-03-20,40.49,67,77
+135,A arte de concretizar seus projetos naturalmente,2020-11-24,38.9,10,60
+136,A simplicidade de conseguir simplesmente,2018-04-10,10.46,91,130
+137,A liberdade de concretizar seus projetos em estado puro,2018-11-23,25.61,65,108
+138,O direito de conseguir antes de tudo,2017-09-03,33.46,12,143
+139,A arte de inovar com força total,2017-10-15,45.59,80,128
+140,A segurança de mudar com toda a tranquilidade,2024-04-02,9.54,10,3
+141,O prazer de concretizar seus projetos mais facilmente,2025-03-03,20.53,35,70
+142,A possibilidade de ganhar de maneira eficaz,2024-08-07,38.15,99,49
+143,O poder de avançar simplesmente,2022-05-10,35.24,49,7
+144,A possibilidade de inovar com confiança,2022-03-19,25.03,97,83
+145,A simplicidade de realizar seus sonhos de maneira eficaz,2020-01-21,60.44,24,110
+146,A simplicidade de atingir seus objetivos simplesmente,2020-12-23,50.41,10,5
+147,A liberdade de concretizar seus projetos sem preocupação,2024-06-20,46.55,88,94
+148,O conforto de evoluir direto da fonte,2020-09-28,63.94,5,112
+149,A liberdade de ganhar de maneira eficaz,2020-05-13,53.03,9,85
+150,A liberdade de concretizar seus projetos com toda a tranquilidade,2023-04-01,65.36,29,40
+151,A certeza de conseguir direto da fonte,2022-11-10,53.95,63,112
+152,O direito de conseguir simplesmente,2023-02-11,15.0,79,23
+153,A segurança de concretizar seus projetos antes de tudo,2022-06-09,13.1,88,55
+154,O direito de concretizar seus projetos naturalmente,2019-04-27,12.35,78,29
+155,O conforto de evoluir de maneira eficaz,2024-12-11,66.37,12,91
+156,O conforto de avançar naturalmente,2022-01-08,41.75,77,68
+157,A arte de evoluir mais facilmente,2021-09-29,25.8,34,60
+158,A simplicidade de concretizar seus projetos antes de tudo,2018-10-16,68.28,24,119
+159,A segurança de ganhar simplesmente,2018-03-10,20.82,10,125
+160,A arte de inovar naturalmente,2019-05-30,38.71,41,138
+161,O prazer de avançar de maneira eficaz,2021-10-26,59.23,88,133
+162,O conforto de realizar seus sonhos sem preocupação,2024-05-12,21.58,16,6
+163,A arte de evoluir com toda a tranquilidade,2024-01-11,27.55,96,54
+164,A certeza de mudar naturalmente,2025-05-23,45.88,100,121
+165,A liberdade de conseguir de maneira eficaz,2020-06-12,69.57,29,117
+166,A arte de evoluir sem preocupação,2022-05-05,42.35,42,57
+167,O conforto de atingir seus objetivos com toda a tranquilidade,2021-05-01,8.81,72,123
+168,A arte de conseguir naturalmente,2017-09-25,57.8,33,48
+169,O poder de avançar com confiança,2020-09-20,40.38,22,149
+170,O conforto de atingir seus objetivos sem preocupação,2020-01-17,9.12,21,2
+171,A possibilidade de avançar mais facilmente,2021-06-15,69.74,48,54
+172,O direito de avançar com força total,2023-10-24,64.72,6,62
+173,O direito de avançar mais rapidamente,2024-07-17,28.14,58,112
+174,A possibilidade de avançar sem preocupação,2020-09-08,16.89,34,58
+175,A possibilidade de avançar simplesmente,2021-12-09,59.0,70,41
+176,A possibilidade de avançar sem preocupação,2021-09-03,27.16,65,24
+177,O conforto de avançar antes de tudo,2019-09-06,41.27,88,72
+178,A segurança de concretizar seus projetos mais rapidamente,2020-05-08,69.09,98,54
+179,O conforto de evoluir mais facilmente,2020-01-21,28.02,66,90
+180,A certeza de inovar mais facilmente,2021-10-03,17.26,66,64
+181,A possibilidade de avançar simplesmente,2023-06-30,17.97,50,74
+182,O prazer de concretizar seus projetos antes de tudo,2018-11-25,32.56,7,43
+183,O prazer de avançar sem preocupação,2019-11-16,51.26,100,57
+184,O prazer de ganhar com força total,2023-05-12,54.05,69,137
+185,O conforto de evoluir direto da fonte,2024-03-13,53.22,69,63
+186,O prazer de concretizar seus projetos com toda a tranquilidade,2024-10-24,37.77,2,81
+187,A arte de concretizar seus projetos mais facilmente,2025-06-20,49.03,99,28
+188,A possibilidade de atingir seus objetivos mais rapidamente,2020-08-30,46.28,4,82
+189,A liberdade de realizar seus sonhos mais rapidamente,2018-12-06,37.21,68,128
+190,O direito de inovar mais rapidamente,2023-01-18,25.4,68,38
+191,O poder de avançar com força total,2023-12-21,28.55,12,87
+192,A segurança de concretizar seus projetos sem preocupação,2017-12-18,36.76,43,102
+193,A liberdade de inovar com toda a tranquilidade,2023-09-18,18.42,57,72
+194,O poder de mudar com confiança,2020-06-28,15.56,43,136
+195,A segurança de atingir seus objetivos com toda a tranquilidade,2019-09-25,57.29,58,106
+196,A possibilidade de evoluir direto da fonte,2020-06-21,32.57,86,5
+197,A liberdade de concretizar seus projetos com força total,2022-07-16,11.81,95,74
+198,A arte de concretizar seus projetos de maneira eficaz,2017-08-28,36.0,44,24
+199,O direito de realizar seus sonhos sem preocupação,2019-07-19,6.62,89,133
+200,A simplicidade de concretizar seus projetos de maneira eficaz,2020-11-13,61.5,26,118
+201,A liberdade de concretizar seus projetos mais facilmente,2024-06-17,30.39,8,68
+202,A certeza de avançar de maneira eficaz,2020-02-07,56.5,81,86
+203,A possibilidade de conseguir mais rapidamente,2021-02-28,63.12,22,130
+204,A arte de evoluir de maneira eficaz,2021-07-10,29.94,82,2
+205,O prazer de mudar com confiança,2023-07-29,29.37,3,15
+206,O conforto de conseguir direto da fonte,2021-03-04,19.45,61,71
+207,O conforto de conseguir com confiança,2020-12-09,6.03,93,118
+208,O direito de conseguir sem preocupação,2021-11-12,16.07,58,107
+209,A segurança de inovar mais rapidamente,2024-02-02,34.15,47,4
+210,O conforto de concretizar seus projetos mais rapidamente,2022-06-04,36.81,52,22
+211,A segurança de conseguir com confiança,2019-08-21,42.96,17,150
+212,A liberdade de concretizar seus projetos naturalmente,2024-11-10,54.17,58,51
+213,A certeza de conseguir com toda a tranquilidade,2024-08-05,6.83,53,31
+214,A possibilidade de ganhar com confiança,2025-04-03,41.12,27,84
+215,O conforto de avançar com força total,2021-06-07,22.25,65,111
+216,A possibilidade de mudar com força total,2021-11-13,39.74,46,86
+217,O conforto de mudar simplesmente,2020-03-29,14.16,47,135
+218,O conforto de atingir seus objetivos naturalmente,2022-10-05,26.6,63,26
+219,A simplicidade de concretizar seus projetos sem preocupação,2017-12-06,24.95,96,144
+220,A arte de ganhar com força total,2024-08-11,46.95,14,78
+221,O direito de realizar seus sonhos de maneira eficaz,2024-11-23,21.79,7,135
+222,A segurança de ganhar simplesmente,2021-09-27,18.47,86,127
+223,O poder de mudar naturalmente,2018-09-19,69.68,25,93
+224,O conforto de mudar direto da fonte,2023-08-03,27.04,3,147
+225,O prazer de atingir seus objetivos mais rapidamente,2021-09-06,68.58,74,111
+226,A segurança de evoluir em estado puro,2020-08-05,59.54,72,8
+227,O prazer de inovar antes de tudo,2017-07-30,8.37,13,133
+228,A simplicidade de realizar seus sonhos antes de tudo,2023-02-05,12.38,33,134
+229,A vantagem de concretizar seus projetos naturalmente,2025-06-18,54.51,94,45
+230,A liberdade de conseguir de maneira eficaz,2023-12-14,58.99,50,136
+231,A liberdade de realizar seus sonhos mais facilmente,2018-01-12,53.06,95,32
+232,A certeza de evoluir de maneira eficaz,2022-12-21,27.39,98,146
+233,A liberdade de ganhar com força total,2023-03-03,55.12,37,88
+234,A simplicidade de evoluir com confiança,2019-09-08,27.95,33,57
+235,A arte de realizar seus sonhos de maneira eficaz,2019-10-12,66.53,74,64
+236,A segurança de realizar seus sonhos de maneira eficaz,2021-02-20,48.34,1,57
+237,O conforto de concretizar seus projetos direto da fonte,2019-12-03,33.55,12,56
+238,O direito de avançar com confiança,2021-12-08,46.34,26,130
+239,A simplicidade de avançar em estado puro,2017-07-21,44.48,63,62
+240,A possibilidade de realizar seus sonhos mais rapidamente,2018-12-05,48.69,54,138
+241,A vantagem de inovar sem preocupação,2020-08-19,61.24,75,29
+242,A liberdade de mudar em estado puro,2021-07-27,57.89,32,24
+243,O direito de mudar simplesmente,2019-03-31,10.66,19,17
+244,O poder de evoluir com força total,2025-04-05,28.96,100,103
+245,O poder de realizar seus sonhos com confiança,2021-09-22,15.64,88,22
+246,O poder de realizar seus sonhos em estado puro,2019-08-08,46.83,69,129
+247,A vantagem de avançar mais facilmente,2019-04-07,56.67,82,93
+248,O direito de realizar seus sonhos simplesmente,2020-03-18,61.09,54,90
+249,A simplicidade de conseguir em estado puro,2024-06-22,11.65,53,89
+250,O direito de realizar seus sonhos com toda a tranquilidade,2019-08-20,64.84,22,77
+251,O prazer de realizar seus sonhos antes de tudo,2023-05-04,66.92,33,20
+252,A possibilidade de realizar seus sonhos mais rapidamente,2021-02-13,50.93,69,6
+253,A certeza de concretizar seus projetos com confiança,2018-11-15,41.34,98,36
+254,A possibilidade de ganhar mais facilmente,2022-06-30,56.63,29,150
+255,O direito de realizar seus sonhos com confiança,2021-09-29,34.06,61,59
+256,O prazer de ganhar antes de tudo,2021-02-15,35.78,54,32
+257,A possibilidade de atingir seus objetivos de maneira eficaz,2018-02-11,67.22,45,44
+258,O conforto de inovar simplesmente,2020-04-03,9.58,12,14
+259,A possibilidade de evoluir antes de tudo,2019-06-08,7.32,48,38
+260,A arte de atingir seus objetivos mais rapidamente,2021-06-03,32.46,57,59
+261,O prazer de atingir seus objetivos antes de tudo,2019-03-28,45.99,6,101
+262,O conforto de evoluir com força total,2018-07-17,5.23,11,87
+263,A segurança de mudar simplesmente,2023-05-18,7.31,68,129
+264,O poder de ganhar mais rapidamente,2019-07-30,24.91,19,109
+265,A simplicidade de realizar seus sonhos naturalmente,2021-12-31,7.86,89,39
+266,A segurança de ganhar simplesmente,2024-02-17,11.65,22,91
+267,A vantagem de atingir seus objetivos simplesmente,2023-03-13,46.28,92,128
+268,A arte de inovar antes de tudo,2024-08-13,64.49,89,145
+269,O conforto de conseguir mais facilmente,2022-07-28,54.11,35,85
+270,A certeza de avançar antes de tudo,2020-03-21,23.84,64,124
+271,O direito de mudar de maneira eficaz,2018-05-11,69.97,39,81
+272,A vantagem de ganhar com toda a tranquilidade,2023-10-29,58.67,84,143
+273,A certeza de conseguir mais rapidamente,2023-03-08,32.32,32,73
+274,A liberdade de ganhar em estado puro,2022-02-26,44.08,28,11
+275,A simplicidade de evoluir mais rapidamente,2024-01-26,41.29,33,14
+276,O prazer de realizar seus sonhos naturalmente,2023-03-21,58.55,38,118
+277,A certeza de avançar com confiança,2024-02-12,49.8,85,93
+278,O prazer de realizar seus sonhos mais facilmente,2020-10-02,68.28,66,104
+279,A simplicidade de avançar simplesmente,2017-06-24,20.94,47,64
+280,A possibilidade de mudar antes de tudo,2018-08-04,26.03,93,4
+281,A simplicidade de ganhar de maneira eficaz,2023-02-05,35.87,9,91
+282,A liberdade de realizar seus sonhos sem preocupação,2018-09-21,24.22,72,71
+283,A possibilidade de atingir seus objetivos mais facilmente,2021-09-22,59.38,38,91
+284,O direito de atingir seus objetivos antes de tudo,2023-09-19,67.17,44,18
+285,A arte de evoluir naturalmente,2024-06-17,20.68,73,144
+286,O prazer de mudar de maneira eficaz,2022-07-03,49.51,18,15
+287,O conforto de mudar com confiança,2023-04-08,51.91,37,148
+288,O poder de evoluir naturalmente,2019-05-10,29.17,5,138
+289,O direito de realizar seus sonhos com toda a tranquilidade,2022-02-16,25.51,49,149
+290,O prazer de inovar sem preocupação,2021-12-22,30.67,33,4
+291,A arte de mudar com toda a tranquilidade,2023-04-24,49.32,84,120
+292,O conforto de avançar com toda a tranquilidade,2025-05-01,18.06,65,20
+293,A vantagem de ganhar de maneira eficaz,2018-05-08,23.12,48,106
+294,A certeza de conseguir naturalmente,2023-07-08,10.74,58,84
+295,A segurança de avançar naturalmente,2018-03-03,48.33,53,105
+296,A liberdade de avançar naturalmente,2020-04-22,43.3,14,57
+297,A arte de inovar com confiança,2018-12-15,42.09,86,137
+298,A possibilidade de mudar simplesmente,2021-11-02,45.37,79,64
+299,A certeza de avançar de maneira eficaz,2018-01-11,62.27,13,22
+300,A certeza de ganhar antes de tudo,2025-03-08,45.36,14,102
+301,A segurança de inovar simplesmente,2020-08-19,26.54,17,105
+302,A simplicidade de mudar com força total,2023-04-10,17.26,85,67
+303,O direito de inovar mais facilmente,2018-04-15,44.34,67,85
+304,O prazer de inovar mais facilmente,2019-03-08,16.09,66,91
+305,O direito de conseguir direto da fonte,2024-11-02,49.73,41,149
+306,O direito de conseguir simplesmente,2022-11-22,45.58,50,1
+307,O prazer de inovar com toda a tranquilidade,2025-03-29,66.24,93,45
+308,A liberdade de mudar com força total,2024-03-08,51.23,18,68
+309,A liberdade de evoluir direto da fonte,2024-08-26,46.45,20,128
+310,A certeza de evoluir com toda a tranquilidade,2024-07-21,52.13,75,78
+311,O direito de conseguir em estado puro,2023-01-25,40.06,92,123
+312,O conforto de realizar seus sonhos naturalmente,2025-05-14,23.24,46,150
+313,A possibilidade de ganhar com força total,2020-02-01,43.06,17,36
+314,A possibilidade de conseguir naturalmente,2019-08-15,30.6,61,148
+315,A segurança de avançar direto da fonte,2018-10-13,10.26,24,86
+316,O prazer de evoluir sem preocupação,2021-11-22,10.47,35,86
+317,A arte de realizar seus sonhos de maneira eficaz,2020-12-13,52.82,10,25
+318,A vantagem de evoluir naturalmente,2021-06-17,21.71,78,58
+319,A arte de concretizar seus projetos simplesmente,2024-06-28,38.0,7,61
+320,O conforto de inovar em estado puro,2023-06-22,6.49,60,1
+321,O poder de concretizar seus projetos direto da fonte,2020-09-12,15.36,92,139
+322,O conforto de evoluir direto da fonte,2023-09-17,68.82,36,7
+323,A segurança de mudar mais facilmente,2019-05-13,39.97,53,70
+324,O direito de realizar seus sonhos direto da fonte,2025-01-25,62.73,58,87
+325,O poder de realizar seus sonhos em estado puro,2025-05-15,57.83,17,41
+326,A simplicidade de avançar com força total,2023-01-04,53.7,63,100
+327,O direito de inovar com força total,2022-02-27,43.1,72,95
+328,A liberdade de realizar seus sonhos de maneira eficaz,2024-01-04,8.04,30,98
+329,A simplicidade de avançar com toda a tranquilidade,2021-10-19,22.43,59,95
+330,O direito de inovar antes de tudo,2021-03-28,41.87,21,111
+331,A segurança de concretizar seus projetos mais rapidamente,2020-05-07,45.98,24,93
+332,A segurança de realizar seus sonhos em estado puro,2018-01-02,66.4,39,17
+333,A possibilidade de mudar simplesmente,2018-01-01,29.09,87,65
+334,A liberdade de mudar mais rapidamente,2021-10-15,45.47,24,110
+335,A possibilidade de avançar com confiança,2024-07-14,13.16,77,129
+336,A liberdade de ganhar com toda a tranquilidade,2022-07-30,37.2,1,38
+337,A arte de realizar seus sonhos antes de tudo,2022-12-23,19.25,21,120
+338,A possibilidade de realizar seus sonhos com toda a tranquilidade,2022-04-17,26.95,62,130
+339,A possibilidade de evoluir com toda a tranquilidade,2018-12-27,64.54,55,130
+340,A simplicidade de ganhar sem preocupação,2021-06-17,46.94,1,3
+341,A liberdade de inovar mais facilmente,2018-01-09,31.87,10,83
+342,A certeza de avançar em estado puro,2020-01-11,53.8,29,80
+343,A arte de avançar com força total,2021-04-16,19.26,45,126
+344,A arte de atingir seus objetivos antes de tudo,2023-10-02,28.76,75,51
+345,O prazer de mudar com força total,2023-04-04,57.53,84,112
+346,A segurança de inovar com confiança,2022-09-29,59.7,43,107
+347,O poder de ganhar simplesmente,2020-03-11,59.44,31,1
+348,A certeza de concretizar seus projetos mais rapidamente,2020-10-22,43.37,95,56
+349,A simplicidade de avançar mais rapidamente,2018-08-08,16.85,73,25
+350,A certeza de concretizar seus projetos em estado puro,2025-05-05,32.95,35,65
+351,A vantagem de realizar seus sonhos em estado puro,2024-11-03,48.11,9,117
+352,A liberdade de mudar com confiança,2022-07-28,12.22,75,81
+353,O direito de ganhar mais facilmente,2024-10-18,6.07,17,5
+354,O conforto de concretizar seus projetos com toda a tranquilidade,2021-03-19,14.81,100,107
+355,A vantagem de conseguir com confiança,2020-06-21,42.06,69,137
+356,A simplicidade de atingir seus objetivos direto da fonte,2017-06-28,23.65,29,12
+357,A possibilidade de concretizar seus projetos mais facilmente,2023-12-02,62.81,10,99
+358,O conforto de ganhar antes de tudo,2017-11-27,7.72,8,140
+359,A certeza de avançar naturalmente,2023-05-11,21.13,53,86
+360,O poder de conseguir com força total,2018-06-22,44.42,50,3
+361,A simplicidade de mudar antes de tudo,2023-12-13,25.33,24,65
+362,O direito de mudar com força total,2020-05-30,57.34,34,141
+363,A vantagem de ganhar de maneira eficaz,2021-09-01,45.53,22,29
+364,A vantagem de ganhar antes de tudo,2025-02-24,25.64,81,19
+365,O poder de avançar mais rapidamente,2018-10-02,46.65,17,134
+366,A certeza de atingir seus objetivos com força total,2024-03-20,50.91,91,76
+367,O poder de atingir seus objetivos de maneira eficaz,2025-05-11,68.25,9,59
+368,A vantagem de mudar mais facilmente,2020-08-22,48.46,20,27
+369,O prazer de realizar seus sonhos antes de tudo,2023-05-09,18.44,96,31
+370,A simplicidade de ganhar direto da fonte,2021-07-23,47.06,83,11
+371,O conforto de avançar mais facilmente,2024-10-14,15.56,51,87
+372,O poder de evoluir mais rapidamente,2025-03-11,36.61,5,17
+373,A simplicidade de inovar mais rapidamente,2020-11-04,45.85,94,38
+374,A segurança de mudar com força total,2020-01-07,14.75,97,117
+375,A possibilidade de mudar simplesmente,2018-01-09,32.04,35,126
+376,O prazer de ganhar com toda a tranquilidade,2019-08-15,10.67,81,65
+377,A certeza de inovar de maneira eficaz,2018-04-24,8.89,55,148
+378,A simplicidade de evoluir com toda a tranquilidade,2021-06-21,14.41,44,66
+379,O prazer de ganhar sem preocupação,2020-07-24,58.28,28,81
+380,O prazer de atingir seus objetivos de maneira eficaz,2018-09-27,56.32,83,40
+381,O poder de inovar naturalmente,2022-11-12,29.49,27,57
+382,A vantagem de mudar em estado puro,2024-12-11,15.48,77,90
+383,O poder de atingir seus objetivos direto da fonte,2021-05-28,64.0,62,48
+384,A arte de inovar de maneira eficaz,2019-03-11,49.41,35,83
+385,O direito de conseguir simplesmente,2023-06-02,23.52,10,101
+386,O conforto de realizar seus sonhos simplesmente,2018-01-08,9.58,40,35
+387,A possibilidade de inovar antes de tudo,2024-01-04,10.32,33,137
+388,A arte de inovar direto da fonte,2025-02-03,59.09,67,75
+389,A arte de evoluir naturalmente,2018-06-10,58.75,90,72
+390,O prazer de concretizar seus projetos naturalmente,2025-04-08,20.77,85,70
+391,O conforto de realizar seus sonhos com força total,2018-05-04,65.08,95,36
+392,O poder de concretizar seus projetos de maneira eficaz,2019-04-09,68.31,18,6
+393,O direito de atingir seus objetivos de maneira eficaz,2021-04-20,14.1,31,76
+394,A segurança de mudar mais facilmente,2018-05-13,55.86,3,81
+395,A arte de ganhar simplesmente,2023-06-12,55.22,59,91
+396,O prazer de mudar com força total,2020-08-30,24.96,56,6
+397,A segurança de avançar com confiança,2021-09-26,19.94,75,72
+398,A arte de inovar naturalmente,2023-05-20,18.81,86,27
+399,O prazer de conseguir mais facilmente,2023-09-02,27.85,33,148
+400,O conforto de inovar com confiança,2017-08-17,65.04,41,100
+401,O poder de ganhar naturalmente,2020-05-06,69.99,29,91
+402,O prazer de atingir seus objetivos com confiança,2025-04-22,17.43,38,61
+403,A liberdade de realizar seus sonhos sem preocupação,2020-02-22,25.61,12,100
+404,A possibilidade de evoluir mais rapidamente,2024-08-18,32.18,98,13
+405,A possibilidade de inovar de maneira eficaz,2018-03-31,33.46,47,64
+406,O conforto de concretizar seus projetos com força total,2019-06-10,69.95,52,109
+407,A segurança de avançar antes de tudo,2018-07-21,38.0,50,23
+408,O conforto de ganhar sem preocupação,2023-01-20,43.74,68,95
+409,A arte de concretizar seus projetos com confiança,2024-03-11,22.98,72,26
+410,A segurança de inovar com força total,2023-09-17,10.01,29,92
+411,O direito de atingir seus objetivos de maneira eficaz,2022-03-14,52.65,89,64
+412,A segurança de atingir seus objetivos com força total,2024-04-22,20.47,34,46
+413,A certeza de atingir seus objetivos simplesmente,2021-03-08,47.68,80,51
+414,A liberdade de realizar seus sonhos direto da fonte,2022-04-15,14.37,43,46
+415,O prazer de mudar de maneira eficaz,2022-07-08,39.17,21,36
+416,A segurança de realizar seus sonhos direto da fonte,2017-07-08,61.6,9,9
+417,A arte de conseguir mais facilmente,2020-06-19,19.32,58,10
+418,O conforto de concretizar seus projetos simplesmente,2023-09-29,45.37,41,143
+419,O poder de evoluir com força total,2020-01-08,41.86,47,32
+420,A certeza de ganhar mais rapidamente,2022-11-14,55.3,53,74
+421,O prazer de mudar direto da fonte,2018-01-16,8.17,72,27
+422,A simplicidade de ganhar antes de tudo,2024-03-10,58.66,90,12
+423,A vantagem de conseguir com força total,2025-02-05,41.19,17,28
+424,A certeza de inovar com toda a tranquilidade,2021-09-17,64.84,52,19
+425,O direito de inovar mais rapidamente,2021-08-11,22.32,47,78
+426,A segurança de concretizar seus projetos mais facilmente,2025-06-19,30.26,15,8
+427,A segurança de mudar com toda a tranquilidade,2024-07-29,21.04,28,74
+428,A segurança de ganhar em estado puro,2025-05-13,6.0,66,95
+429,O poder de ganhar direto da fonte,2023-06-29,51.08,31,23
+430,A certeza de inovar com força total,2018-09-21,51.09,61,35
+431,A simplicidade de evoluir simplesmente,2021-04-06,15.15,70,6
+432,A segurança de atingir seus objetivos sem preocupação,2018-12-25,56.34,26,28
+433,A arte de realizar seus sonhos com confiança,2024-06-06,49.17,6,105
+434,O prazer de avançar direto da fonte,2020-01-17,24.85,67,57
+435,O direito de avançar com toda a tranquilidade,2020-11-21,32.87,9,97
+436,O direito de mudar com toda a tranquilidade,2022-09-02,69.25,59,111
+437,A certeza de ganhar naturalmente,2019-04-05,14.97,79,45
+438,A segurança de concretizar seus projetos naturalmente,2019-07-29,11.41,25,56
+439,A possibilidade de evoluir naturalmente,2024-04-29,36.3,29,138
+440,A arte de atingir seus objetivos com toda a tranquilidade,2020-11-01,26.31,67,81
+441,O prazer de evoluir simplesmente,2021-07-28,45.68,22,37
+442,A vantagem de avançar com força total,2021-05-03,44.45,56,91
+443,O conforto de conseguir com toda a tranquilidade,2021-12-23,58.07,45,43
+444,A segurança de inovar simplesmente,2018-12-20,56.62,82,145
+445,O conforto de avançar com toda a tranquilidade,2021-08-24,65.27,79,142
+446,O conforto de atingir seus objetivos mais rapidamente,2020-10-15,48.97,23,85
+447,A possibilidade de atingir seus objetivos de maneira eficaz,2024-11-24,43.17,97,75
+448,O direito de inovar mais rapidamente,2019-10-30,66.55,49,94
+449,A simplicidade de concretizar seus projetos com confiança,2018-06-17,44.02,13,51
+450,A certeza de inovar com confiança,2022-12-01,35.28,18,59
+451,O conforto de evoluir simplesmente,2021-12-14,26.73,80,40
+452,O conforto de evoluir com força total,2024-05-08,43.63,74,84
+453,A vantagem de mudar em estado puro,2022-11-22,57.92,8,134
+454,A vantagem de ganhar mais facilmente,2017-12-07,32.2,66,12
+455,O prazer de evoluir com força total,2025-06-12,27.64,84,62
+456,A vantagem de evoluir em estado puro,2024-01-18,41.11,96,78
+457,A segurança de mudar mais rapidamente,2023-01-25,43.25,78,13
+458,A vantagem de ganhar antes de tudo,2018-05-09,8.34,63,46
+459,O poder de realizar seus sonhos com confiança,2022-03-20,5.37,80,23
+460,A liberdade de realizar seus sonhos direto da fonte,2018-07-31,35.25,2,78
+461,A arte de inovar de maneira eficaz,2023-11-08,16.73,34,97
+462,A certeza de ganhar de maneira eficaz,2021-12-03,43.56,93,132
+463,O direito de concretizar seus projetos antes de tudo,2019-06-09,26.32,59,92
+464,A arte de evoluir naturalmente,2017-08-26,70.0,33,78
+465,O conforto de inovar em estado puro,2018-02-07,61.53,16,20
+466,A possibilidade de inovar simplesmente,2025-04-15,28.31,30,61
+467,A simplicidade de ganhar mais rapidamente,2023-09-16,68.64,51,110
+468,O conforto de evoluir naturalmente,2025-05-24,8.03,81,74
+469,A arte de avançar com força total,2019-09-27,16.66,96,42
+470,O prazer de inovar em estado puro,2019-02-18,62.9,95,67
+471,O prazer de mudar naturalmente,2023-10-31,10.67,63,149
+472,O direito de evoluir direto da fonte,2019-02-06,33.51,88,130
+473,A vantagem de concretizar seus projetos com força total,2024-11-12,6.57,88,127
+474,A possibilidade de atingir seus objetivos sem preocupação,2023-09-30,49.75,45,10
+475,A arte de evoluir em estado puro,2018-03-07,44.98,70,85
+476,O conforto de evoluir com confiança,2022-10-23,62.03,100,79
+477,O direito de avançar simplesmente,2017-08-22,66.16,39,38
+478,A certeza de evoluir mais facilmente,2020-07-24,33.33,72,138
+479,A arte de concretizar seus projetos com toda a tranquilidade,2022-10-02,44.15,70,24
+480,A segurança de evoluir em estado puro,2021-05-06,32.22,75,149
+481,A simplicidade de ganhar com toda a tranquilidade,2023-09-04,53.32,32,111
+482,O prazer de atingir seus objetivos simplesmente,2018-04-16,50.34,99,126
+483,O direito de mudar sem preocupação,2020-10-13,13.72,66,17
+484,A possibilidade de conseguir mais rapidamente,2020-08-22,33.18,74,7
+485,A possibilidade de inovar direto da fonte,2019-08-13,15.93,20,116
+486,O poder de avançar em estado puro,2018-01-14,56.45,28,147
+487,A possibilidade de ganhar antes de tudo,2020-10-27,62.19,24,26
+488,O direito de atingir seus objetivos naturalmente,2021-05-17,58.57,3,107
+489,A possibilidade de atingir seus objetivos com confiança,2023-04-22,35.91,42,104
+490,O direito de concretizar seus projetos simplesmente,2023-06-18,65.6,40,127
+491,A arte de inovar com toda a tranquilidade,2021-03-07,58.49,20,15
+492,A vantagem de avançar com confiança,2020-06-07,58.59,57,78
+493,O conforto de mudar mais rapidamente,2025-01-26,30.86,54,86
+494,O direito de evoluir com toda a tranquilidade,2018-12-14,6.45,4,79
+495,O poder de mudar com toda a tranquilidade,2021-08-23,26.85,61,28
+496,A possibilidade de evoluir com força total,2017-08-05,67.8,92,87
+497,A liberdade de evoluir antes de tudo,2017-06-25,48.1,55,148
+498,A segurança de conseguir direto da fonte,2024-12-25,51.73,45,6
+499,A segurança de evoluir naturalmente,2020-01-26,44.39,25,136
+500,A possibilidade de mudar em estado puro,2025-05-26,69.4,40,3
