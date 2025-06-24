@@ -27,8 +27,7 @@ ORDER BY j.titulo, g.nome_genero;
 SELECT
     j.titulo,
     c.nome_usuario AS avaliador,
-    a.nota,
-    a.comentario
+    a.nota
 FROM avaliacoes AS a
 JOIN jogos AS j ON a.jogo_id = j.jogo_id          -- Conecta a avaliação ao jogo
 JOIN clientes AS c ON a.cliente_id = c.cliente_id  -- Conecta a avaliação ao cliente

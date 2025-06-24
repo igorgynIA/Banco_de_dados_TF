@@ -70,7 +70,6 @@ CREATE TABLE avaliacoes (
     cliente_id INTEGER NOT NULL,
     -- A constraint CHECK garante a integridade do dado de nota.
     nota INTEGER NOT NULL CHECK (nota >= 1 AND nota <= 5),
-    comentario TEXT,
     data_avaliacao DATE NOT NULL,
     -- Um cliente só pode avaliar um jogo uma única vez.
     UNIQUE (jogo_id, cliente_id),
