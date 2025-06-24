@@ -1,4 +1,4 @@
-CREATE OR REPLACE TABLE `seu-projeto.steam_dw.dim_tempo` AS
+CREATE OR REPLACE TABLE `db-2025-igor.trabalho_final.dim_tempo` AS
 WITH all_dates AS (
   SELECT DISTINCT data_venda AS a_date FROM `seu-projeto.seu_dataset_bruto.raw_vendas`
   UNION DISTINCT
