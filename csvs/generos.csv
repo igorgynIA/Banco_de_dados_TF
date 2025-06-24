@@ -1,0 +1,26 @@
+genero_id,nome_genero
+1,RPG
+2,Acao
+3,Mundo Aberto
+4,Simulacao
+5,Indie
+6,Estrategia
+7,Puzzle
+8,Sobrevivencia
+9,Terror
+10,Esportes
+11,Aventura
+12,Plataforma
+13,Luta
+14,Corrida
+15,Tiro em Primeira Pessoa (FPS)
+16,Tiro em Terceira Pessoa (TPS)
+17,Roguelike
+18,Metroidvania
+19,Construcao de Cidades
+20,Soulslike
+21,Hack and Slash
+22,Stealth
+23,Visual Novel
+24,Ritmo
+25,Sandbox
